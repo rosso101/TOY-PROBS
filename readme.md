@@ -6,6 +6,13 @@
 
 ## CODING LANGUAGES : javascript
 ## TABLE OF CONTENT :grading system (javascript), detecting speed(javascript), calculating salary(javascript)
+## INSTALATION GUIDE:
+1. Open the terminal in your work area 
+2. type in git clone in your terminal 
+3. add the SSSH key before  presing enter
+
+-the installation above with appear as a file in your directory
+ 
 
 #### DESCRIPTION : this is a file  that is sub-divided into 3 javascript codes that fall into three categories:
 ## 1.GRADING SYSTEM
@@ -43,3 +50,7 @@ https://www.aren.co.ke/payroll/taxrates.htm
   2. The amout will fall into a range of amounts which determine the percentage amount being deducted.
        eg.288,001 - 388,000: 25.0%
   3. javascript will bring back a result which is the official salary of the individual.
+​
+
+
+   
